@@ -11,12 +11,6 @@ PyTorch implementation of DINOSAUR (Bridging the Gap to real-world object-centri
 - 🔄 **Transformer Decoder**: Autoregressively reconstructs features with cross-attention to slots.
 - 🎨 **Segmentation Visualization**: Generates per-slot attention maps for object localization.
 
-## Installation
-```bash
-git clone https://github.com/sabrikhalil/dinosaur.git
-cd dinosaur
-pip install -r requirements.txt
-```
 
 ## Setup
 
