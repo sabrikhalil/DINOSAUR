@@ -2,6 +2,9 @@
 
 PyTorch implementation of DINOSAUR (Bridging the Gap to real-world object-centric learning), combining DINO-pretrained ViT features with Slot Attention and a Transformer decoder for unsupervised object segmentation.
 
+![epoch_989_step_89000_combined](https://github.com/user-attachments/assets/8b6a72b9-3fee-45a8-840e-e9bb70613f44)
+
+
 ## Key Features
 - 🦖 **DINO ViT Encoder**: Frozen DINO-pretrained Vision Transformer for feature extraction.
 - 🎰 **Slot Attention**: Iteratively groups image patches into object-centric slots.
