@@ -13,7 +13,7 @@ PyTorch implementation of DINOSAUR (Bridging the Gap to real-world object-centri
 
 ## Installation
 ```bash
-git clone https://github.com/yourusername/dinosaur.git
+git clone https://github.com/sabrikhalil/dinosaur.git
 cd dinosaur
 pip install -r requirements.txt
 ```
