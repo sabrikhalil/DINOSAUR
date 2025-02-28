@@ -17,7 +17,7 @@ PyTorch implementation of DINOSAUR (Bridging the Gap to real-world object-centri
 1. **Clone the repository and install dependencies:**
 
    ```bash
-   git clone https://github.com/yourusername/DINOSAUR
+   git clone https://github.com/sabrikhalil/DINOSAUR
    cd DINOSAUR
    pip install -r requirements.txt
    ```
